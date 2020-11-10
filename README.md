@@ -1,4 +1,5 @@
 # Cognitive-Algorithms
+several porpular Algorithms in ML
 
 Assignment 1. Nearest Centroid Classifier VS Perceptron\\
 Assignment 2. Linear Discriminant Analysis 
